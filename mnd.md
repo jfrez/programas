@@ -1,0 +1,806 @@
+# FORMULARIO PARA LA CREACIÓN DE
+PROGRAMAS DE MAGÍSTER
+
+Nombre del programa:	Magíster en Negocios Digitales
+Facultad: 	Facultad de Economía y Empresa y Facultad de Ingeniería y Ciencias
+Fecha de aprobación en Consejo Facultad:
+
+______________________________
+Nombre y Firma Decano/a
+
+Antes de iniciar el diseño de un nuevo magíster, sugerimos contactar a la Dirección General de Postgrados y Educación Continua (DGPEC) para discutir la idea general del proyecto y el contexto nacional de programas similares. Además, se sugiere revisar el documento Enfoque y criterios para el desarrollo curricular en programas de postgrado y educación continua disponible en la intranet.
+
+Este formulario debe ser enviado a la DGPEC, con la firma del decano/a, una vez que el proyecto académico ha sido aprobado por el Consejo de Facultad.
+
+La DGPEC evaluará el proyecto, el que será también enviado a pares externos para su revisión. Junto con la evaluación del formulario se evaluará la formulación presupuestaria.
+
+Los nuevos magísteres deben ser aprobados por la Vicerrectoría Académica y luego, por los Consejos Académico y Superior de la UDP.  Una vez aprobado en dichas instancias, el programa deberá elaborar un documento final de plan de estudio que se formalizará mediante Resolución de VRA.
+
+## 1.	INFORMACIÓN GENERAL
+
+## 1.1.	 Antecedentes del Programa
+
+Nombre:	Magíster en Negocios Digitales
+Grado que otorga:	Magíster
+Menciones (si las hay) o salidas intermedias:
+Año de inicio:	2022
+Carácter del Magíster:	X	Profesional      		Académico      		Mixto
+Dedicación del Estudiante:		Full-time         	X	Part-time
+Jornada: 		Diurna              	X	Vespertina      		Mixta
+Modalidad:		Presencial	X	Semi-presencial		Online
+Duración: 	15 meses
+Organización temporal:
+(ej. semestres, trimestres, etc.)	Trimestres
+Horas cronológicas presenciales y asíncronas:	395
+Horas cronológicas totales (presenciales y asíncronas + trabajo autónomo)	1.800 horas
+Créditos totales:	60
+Articulación con otro programa de pre o postgrado
+Convenio con otras universidades/programas nacionales o internacionales	Ninguno
+Fecha estimada de inicio: 	Junio 2022
+Matrícula esperada (número):	20 alumnos
+Costo matrícula y arancel anual: 	$7.600.000.
+
+## 1.2.	 Antecedentes del Director (a) del Programa
+Nombre:	Pablo Henríquez Valdebenito
+Jonathan Frez
+Grado académico:	Doctorado en Ingeniería de Sistemas Complejos
+Doctor en Ciencias de la Computación
+Jerarquización académica UDP:	Profesor Asistente
+Profesor Asistente
+Dedicación semanal al Programa: (en hrs.)	10 horas
+Tipo de contrato:
+(Ej. Jornada regular, part-time)	Jornada Regular
+Breve referencia a su experiencia laboral y docente	Pablo Henríquez Valdebenito
+Doctor en Ingeniería de Sistemas Complejos, Magíster en ciencias con mención en física, Ingeniero físico y Licenciado en ciencias con mención en física. Profesor de tecnologías de la información e investigador de la Facultad de Economía y Empresas de la Universidad Diego Portales.
+Se ha desempeñado como data science en proyectos CORFOS aplicados, como también, en proyectos FONDECYT. También, es investigador asociado al Centro de Estudio Públicos, desarrollando tareas de Text Mining y Cloud Computing.
+Ha publicado en  revistas WoS como Neurocomputing, Applied Soft Computing, Plos One y Engineering Applications of Artificial Intelligence. Además, tiene trabajos publicados en relevantes conferencias de la IEEE.
+
+Jonathan Frez Zachary
+Doctor en Computación, Magister en ciencias de la ingeniería mención computación, Ingeniero Civil en Informática y Telecomunicaciones. Profesor de múltiples cursos del área TIC en la Facultad de Ingeniería y Ciencias de la Universidad Diego Portales.
+
+Con experiencia en proyectos CORFO aplicados a la industria del retail y seguridad pública, asesor de múltiples ministerios en materias de regulación como lo son la electromovilidad, sistemas de medición inteligente de consumo energético, y monitoreo remoto de sistemas de transporte de pasajeros y carga.
+Su área de investigación se concentra en el análisis y modelado en base a información geoespacial para la toma de decisiones, incluyendo modelos predictivos tanto geoespaciales como de indicadores de negocios.
+
+## 2.	JUSTIFICACIÓN DEL NUEVO PROGRAMA
+
+## 2.1.	Relevancia del programa
+
+Explique la importancia académica y estratégica de abrir este programa para la UDP, considerando aspectos como: a) el desarrollo de la disciplina; b) necesidades existentes/emergentes en el país y/o la región; c) la potencial demanda; d) proyecto estratégico de la Facultad; e) líneas de investigación/desarrollo de la facultad.
+Las tecnologías de la información son hoy en día uno de los principales catalizadores de cambios en las empresas. Sin embargo, su naturaleza de transformación continúa conlleva un entorno de mercado cada vez más exigente y competitivo en términos de las técnicas y conocimientos que son necesarios para mantener a una organización en los mercados digitales.
+
+Actualmente existen programas vigentes que apuntan directamente a los procesos de transformación digital, los cuales consisten en la aplicación de tecnologías de la información a distintos procesos de la organización. Este programa apunta no solo a adquirir los conocimientos necesarios para guiar procesos de transformación digital, sino que además se orienta a conocer distintos modelos de negocios que son posibles de implementar utilizando una gama de tecnologías emergentes y nuevos tipos de servicios como lo son 5G, Internet de las cosas, variedades de fintech, divisas digitales, entre otras.  El programa hace hincapié en la formulación de servicios y/o productos que puedan ser promocionados y comercializados mediante medios digitales, entregando nociones básicas de análisis de datos e inteligencia artificial de manera comprender el provecho que tiene la información generada y/o capturada para mejorar los productos o el proceso de comercialización.
+
+Esta combinación de elementos que apuntan a soportar proyectos de transformación y de implementación de servicios y/o canales digitales que cubren una necesidad que se vio incrementada durante los últimos dos años de abrir los negocios a entornos digitales.  Es por esto que existe un mercado potencial de personas interesadas en mejorar y complementar sus capacidades en este ámbito, entendiendo que ingresaron a un mercado que ha evolucionado desde la creación de programas similares en otras universidades.
+
+Es importante destacar que ambas facultades contemplan dentro de su desarrollo estratégico la apertura de nuevos programas de educación continua, y este programa en particular requiere de conocimientos que se encuentran distribuidos en ambas facultades por lo que no solo es un aporte para potenciar la colaboración inter-facultad, si no que hace más compleja la posibilidad de que exista una competencia directa de otros programas en el corto plazo.
+
+## 2.2.	Proceso de diseño del nuevo programa
+
+Describa:
+a)	Quiénes participaron en la formulación del programa y la metodología utilizada para su diseño.
+b)	Las fuentes/antecedentes considerados en la elaboración de la propuesta y las conclusiones de esta revisión. Por ejemplo: programas similares a nivel nacional e internacional; estudios/investigaciones; elementos del contexto nacional e internacional que dan cuenta de la relevancia del programa (por ejemplo, para la disciplina y para el país); entre otros.
+
+La formulación del programa fue realizada por Pablo Henríquez , Director del programa de la Facultad de Economía y Empresas UDP y Jonathan Frez Director del programa por parte de la Facultad de Ingeniería y Ciencias UDP.
+El desarrollo de la propuesta se realizó en base a un estudio de ofertas de postgrado en el área tanto a nivel nacional como internacional, entrevista con profesionales en empresas relacionados a la transformación digital, y académicos tantos de la Facultad de Economía y Empresas y de la Facultad de Ingeniería y Ciencias de la Universidad Diego Portales. El objetivo fundamental de este punto fue identificar los contenidos, aplicaciones y enfoques de distintos actores del ámbito empresarial, para identificar los conocimientos y habilidades que necesitan especialistas en negocios digitales.
+Con esta información se estructuró un plan de estudios basado en tres líneas: Entender el mundo digital, cómo actuar en el mundo digital y entender su crecimiento dentro de las organizaciones.
+En el marco de la transformación digital, las empresas deben buscar distintas posiciones relacionadas con estos saberes porque hoy el que no se actualiza y se vuelca a digital, tarde o temprano va a quedar fuera de combate. En este sentido, el presente programa tiene una relevancia importante para el país, ya que será fundamental adquirir estos conocimientos a la hora de reconvertir una empresa y adaptarla a las necesidades de hoy. A la hora de competir, las empresas que no tengan productos digitales en su portafolio pronto quedarán de lado.
+Se examinaron varias fuentes disponibles, desde cursos puntuales, especializaciones internacionales, programas de diplomados locales y maestrías internacionales. A modo de ejemplo se presentan algunos diplomados que abordan algunos de los temas incluidos en el programa:
+
+Nombre del programa	¿En qué consiste el programa?
+Diplomado en Transformación Digital (UAI)	Se enfoca en establecer los conceptos críticos de Transformación Digital, para luego evolucionar hasta la elaboración de un proyecto.
+Diplomado en Transformación Digital Ágil (UC)
+Comprender el impacto, alcance y ventaja de la Transformación Digital Ágil a nivel del negocio, la organización y las TI.
+Diplomado en Estrategia de Transformación Digital (UANDES)	Entrega conocimientos para que entiendan el
+impacto de las nuevas tecnologías en las organizaciones, comprendan como
+esencial el proceso de transformación digital y sean capaces de liderar dicho
+cambio y transformación en sus compañías.
+
+El presente programa se diferencia de la oferta existente por ser el único en negocios digitales. Nuestra oferta contempla cursos de formación en transformación digital, pero a diferencia de los mencionados, la presente propuesta contempla cursos con un enfoque en el aprendizaje de métodos relacionados a la ciencia de datos (Inteligencia artificial, Big Data, Machine Learning, ética y privacidad de los datos). Entregando una mirada macro sobre el conocimiento que se debe adquirir a la hora de entender el cambio digital en los negocios.
+De acuerdo con lo informado por la Comisión Nacional de Acreditación CNA, en Chile no existe un Magíster en Negocios Digitales, pero podemos mencionar que a nivel internacional existen programas similares entre los que destacan:
+Nombre del programa	¿En qué consiste el programa?
+Maestría en Negocios Digitales (Universidad de San Andrés, Argentina)	Un programa que te brinda habilidades de Digital Business, Management y Data & IA para que potencies cualquier negocio con una visión integral.
+Digital Transformation (Executive
+Education at Imperial College Business School, Londres)	Este programa ofrece una descripción general amplia y no técnica de las nuevas tecnologías que están impactando a las empresas en todos los sectores.
+DIGITAL DISRUPTION: DIGITAL TRANSFORMATION STRATEGIES (Cambridge Judge Business School Executive Education, Cambridge)	Crear estrategias revolucionarias que cambien las reglas del juego para ayudar a que su organización prospere.
+
+El presente programa contempla experiencias de contenido de la oferta internacional. Finalmente, el Magíster en Negocios Digitales de la UDP tiene como objetivo cubrir contenido en transformación digital, negocios digitales y Machine learning & IA.
+
+## 2.3.	 Sello del programa
+
+Señale el/los aspectos distintivos que tendrá este programa, en comparación con otros del sistema universitario chileno.
+El programa se destaca por contar con una visión multidisciplinaria inter-facultad tanto desde el punto de vista tecnológico como de los procesos de transformación y estrategias de gestión requeridas. Esto permite una adquisición de una amplia gama de conocimientos en temáticas de gestión, estrategia y tecnologías. Además, existe un foco en el análisis de datos como herramienta potenciadora del crecimiento del negocio.
+
+El programa cuenta con articulaciones opcionales con especializaciones internacionales que permiten abordar los temas de contingencia, comenzando en su primera versión con un curso de Transformación Digital de la Universidad Internacional de Florida, entregando así no solo el grado de magíster, sino que además una certificación internacional en materias contingentes.
+
+## 3.	DESCRIPCIÓN DEL PROYECTO ACADÉMICO
+
+## 3.1.	 Objetivos
+
+Formule objetivos estratégicos para el programa, considerando, por ejemplo, la contribución que este hará a la disciplina o profesión; las áreas de investigación o vinculación con el medio que se esperan fortalecer; el tipo de profesionales/especialistas que se busca formar; etc.
+El programa busca aprovechar un nicho que puede ser potenciado mediante el trabajo interfacultad en el ámbito de los negocios digitales, buscando posicionarse en las áreas comerciales de las empresas más que en los funcionamientos internos como ocurre con los programas que se enfocan primariamente en la transformación digital de una organización.
+
+Este posicionamiento abriría un vínculo con el medio que ha sido tradicionalmente poco explorado por la Universidad, mostrando así capacidades de ingeniería aplicada en el mercado nacional.
+
+Se espera formar especialistas que sean capaces de concebir nuevas formas de distribución de sus productos y la creación de servicios de valor agregado aprovechando características tecnológicas que están disponibles y accesibles.
+
+## 3.2.	 Destinatarios
+
+Señale a quiénes está dirigido el programa y las características de los potenciales postulantes.
+El programa está dirigido a ejecutivos o gerentes de empresas que estén planificando o comenzando a operar canales de venta digital de sus productos o servicios existentes, o que piensen desarrollar nuevas líneas de negocios con estas características.
+
+-	Ejecutivos con experiencia en gestión de proyectos y armado de equipos de trabajo que busquen reconvertir o profundizar su perfil.
+-	Ejecutivos que buscan liderar la transformación digital dentro de sus organizaciones.
+-	Emprendedores que quieran hacer crecer sus negocios y/o abrir crear servicios basados en plataformas tecnológicas.
+
+## 3.3.	 Proceso de postulación y selección
+
+a)
+Requisitos mínimos:
+-	Licenciatura o Título en alguna ingeniería o experiencia similar.
+-	Experiencia laboral mínima de 3 años (criterio interno). Eventualmente podrán ser aceptados alumnos sin experiencia laboral, pero con destacado rendimiento académico.
+-	Se requieren habilidades analíticas, conocimientos básicos de matemáticas y estadística. También es fundamental poder comprender textos en inglés, ya que la mayoría de los contenidos aún no están disponibles en español.
+
+Antecedentes:
+-	Currículum vitae.
+-	Certificado de Licenciatura o Título, según sea el caso.
+Proceso de selección:
+-	Una entrevista personal para, por un lado, dar a conocer los objetivos, temáticas y estructura del programa, como también conocer la experiencia, perfil y motivaciones del alumno.
+
+## 3.4.	 Perfil de egreso
+
+El perfil de egreso indica de manera clara y concisa lo que sabrá y será capaz de hacer el egresado del programa. Considere en la formulación del perfil de egreso:
+a)	Los conocimientos y habilidades propios de la especialidad, así como aquellas habilidades relevantes para el nivel de formación: pensamiento crítico, habilidades de investigación, formación ética, capacidad de aplicar el conocimiento en situaciones o contextos específicos, etc.
+b)	El carácter del programa: académico, profesional o mixto.
+
+El carácter del programa es profesional.
+
+Los egresados y egresadas del programa son profesionales capaces de reconocer y formular modelos de negocios digitales, diseñando estrategias de adopción tecnológica reconociendo los perfiles técnicos requeridos para la operación de un negocio digital.
+
+La base de esta formación se concentra en comprender distintos modelos de negocios, formas de marketing digital y opciones de crecimiento disponibles. A su vez, esto se complementa con conocimientos sobre las tecnologías sobre las cuales es posible operar un negocio digital, como lo son Internet de las Cosas, Redes 5G y diferentes formas de E-commerce. Este último aspecto, se ve reforzado con formación sobre los nuevos modelos de divisas digitales y tipos de servicios financieros con base tecnológica.
+
+De manera complementaría, los egresados y egresadas del programa, cuentan con nociones de análisis de información y herramientas de machine learning que pueden ser aplicadas a un negocio en busca de, por ejemplo, comprender el comportamiento de sus clientes.
+-
+
+## 3.5.	 Líneas de Investigación o desarrollo
+
+Señale las líneas de investigación o desarrollo del programa. Estas líneas deben estar sustentadas en la trayectoria de la Facultad y el trabajo que realizan sus académicos.
+Si bien el programa es de carácter profesional, parte de sus contenidos y objetivos están alineados con investigaciones en modelos predictivos y métodos de análisis de información tanto a nivel general de potenciales compradores o clientes de productos y servicios como de análisis y proyecciones de indicadores de negocios utilizando técnicas de machine learning.
+-	Panay, B., Baloian, N., Pino, J. A., Peñafiel, S., Frez, J., Fuenzalida, C., ... & Zurita, G. (2021). Forecasting Key Retail Performance Indicators Using Interpretable Regression. Sensors, 21(5), 1874.
+-	Baloian, N., Frez, J., Fuenzalida, C., Panay, B., Peñafiel, S., Pino, J. A., & Sanson, H. (2020). Revisiting the Promotion Effectiveness Measurement in Retail. Collaborative Technologies and Data Science in Artificial Intelligence Applications, 14.
+-	Frez Zachary, J. (2021). Dealing with incomplete and uncertain context data in geographic information.
+-	Basso, F., Frez, J., Martínez, L., Pezoa, R., & Varas, M. (2020). Accessibility to opportunities based on public transport gps-monitored data: The case of Santiago, Chile. Travel Behaviour and Society, 21, 140-153.
+-	Frez, J., Baloian, N., Zurita, G., & Pino, J. A. (2014, May). Dealing with incomplete and uncertain context data in geographic information systems. In Proceedings of the 2014 IEEE 18th International Conference on Computer Supported Cooperative Work in Design (CSCWD) (pp. 129-134). IEEE.
+-	Ruz, G.A., Henríquez, P.A., Mascareño, A., Sentiment classification of Twitter data during critical events by Bayesian networks, Future generation computer systems, Vol. 106, 2020, 92-104.
+-	Henríquez, P.A., Ruz, G.A. A non-iterative method for pruning hidden neurons in neural networks with random weights, Applied Soft Computing, Vol. 70, 2018, 1109-1121.
+-	Henríquez, P.A., Ruz, G.A. Extreme learning machine with a deterministic assignment of hidden weights in two parallel layers, Neurocomputing, Vol. 226, 2017, 109-116.
+-	Glennon, B., Morales, f., Carnahan, S., Hernandez, E., Does Employing Skilled Immigrants Enhance Competitive Performance? Evidence from European Football Clubs, National Bureau of Economic Research.
+-	Dujovne, D., Watteyne, T., Vilajosana, X., & Thubert, P. (2014). 6TiSCH: deterministic IP-enabled industrial internet (of things). IEEE Communications Magazine, 52(12), 36-41.
+-	Ahumada, L., Carreño, E., Angles, A., & Schkolnik, D. (2018). Shadowing correlation: empirical results for mm-wave wireless links in urban street canyons. IEEE Antennas and Wireless Propagation Letters, 17(4), 543-546.
+-	Angles-Vazquez, A., Carreno, E., & Ahumada, L. S. (2017). Modeling the effect of pedestrian traffic in 60-GHz wireless links. IEEE Antennas and Wireless Propagation Letters, 16, 1927-1931.
+-	Palattella, M. R., Watteyne, T., Wang, Q., Muraoka, K., Accettura, N., Dujovne, D., ... & Engel, T. (2015). On-the-fly bandwidth reservation for 6TiSCH wireless industrial networks. IEEE Sensors Journal, 16(2), 550-560.
+-	Diedrichs, A. L., Bromberg, F., Dujovne, D., Brun-Laguna, K., & Watteyne, T. (2018). Prediction of frost events using machine learning and IoT sensing devices. IEEE Internet of Things Journal, 5(6), 4589-4597.
+
+## 3.6.	 Organización del plan de estudios
+
+Explique cómo se organiza el plan de estudios considerando, por ejemplo:
+-	Las líneas de formación o áreas que organizan la malla.
+-	Los tipos de actividades curriculares: asignaturas, coloquios, seminarios, prácticas o pasantías, etc.; las áreas/cursos obligatorios y los electivos.
+-	Si hay menciones y cómo se implementan.
+-	Certificaciones intermedias y/o articulación con otros programas de la Facultad, UDP u otras universidades nacionales o extranjeras;
+-	Modalidad en que se impartirá el programa (por ejemplo, módulos secuenciales o en paralelo, full-time, part-time, etc.)
+-	Cualquier característica o elemento relevante para la progresión del estudiante.
+La malla contempla 16 cursos obligatorios que se impartirán en forma consecutiva, los viernes (3 horas) y los sábados (5 horas).
+Además, la malla contempla un taller de metodologías ágiles que se dictará en el segundo trimestre y una certificación internacional por la Universidad Internacional de Florida en Transformación digital, que se dictará entre el tercer y cuarto trimestre aproximadamente.
+
+El orden de los cursos es el siguiente:
+
+## 1.	Negocios digitales (9 horas)
+## 2.	Planificación estratégica (24 horas)
+## 3.	Internet de las cosas (24 horas)
+## 4.	FinTech, Blockchain y moneda digital (24 horas)
+## 5.	Transformación cultural (24 horas)
+## 6.	Estrategia tecnológica (24 horas)
+## 7.	Taller de métodos ágiles (8 horas)
+## 8.	Certificación internacional: Transformación Digital
+## 9.	Redes 5G (24 horas)
+## 10.	Marketing digital (24 horas)
+## 11.	Introducción a Inteligencia Artificial, herramientas Cloud (24 horas)
+## 12.	Estrategias de captación y crecimiento online (24 horas)
+## 13.	Machine Learning (24 horas)
+## 14.	Ética, privacidad y seguridad de los datos (24 horas)
+## 15.	Evaluación económica (24 horas)
+## 16.	Business Development Project I (32 horas)
+## 17.	Business Development Project II (32 horas)
+-
+
+## 3.7.	Malla curricular
+
+Trimestre 1	Trimestre 2	Trimestre 3	Trimestre 4	Trimestre 5	Trimestre 6
+Negocios digitales	FinTech, Blockchain y moneda digital	Certificación internacional: Transformación Digital	Estrategias de captación y crecimiento online	Evaluación económica	Business Development Project II
+Planificación estratégica	Transformación cultural	Redes 5G	Machine Learning	Business Development Project I
+Internet de las cosas	Estrategia tecnológica	Marketing digital	Ética, privacidad y seguridad de los datos
+Taller de métodos ágiles	Introducción a Inteligencia Artificial, herramientas Cloud
+
+## 3.8.	 Proceso de graduación
+Describa la actividad y/o proceso de obtención del grado, incluyendo: tipo de actividad (tesis, proyecto, etc.); requisitos para iniciar la actividad de graduación; qué mide; cómo se califica y quiénes participan en la evaluación; si habrá un profesor guía y/o coordinador del proceso; qué sucede en caso de reprobación; etc.
+La actividad de graduación consiste en la formulación de un proyecto de negocio digital. Comienza en el trimestre 5, con un curso breve de evaluación económica que tiene por objetivo orientar acerca de las formas de evaluar un proyecto tecnológico, y continúa con presentaciones de avance en las actividades de Business Development Project I y II. La formulación del proyecto se realiza bajo al acompañamiento de profesores “guía” y comisión con experiencia en la implementación de productos o servicios digitales.
+Las actividades de Business Development Project I y II cuentan con una defensa al final del periodo frente a un panel experto compuesto por 3 personas, considerando profesor/a guía y profesores del programa según el tipo de proyecto.
+
+## 3.9.	 Requisitos para la obtención del grado y cálculo de la nota final
+
+Indique los requisitos para obtener el grado y cómo se calcula la nota final, considerando, por ejemplo, porcentaje asignado a cursos y actividad de graduación; cálculo ponderado por créditos o promedio aritmético.
+El egreso del alumno estará dado con la aprobación de todos los cursos (incluidos los talleres) del programa, sin incluir la articulación internacional.
+Aprobación de la actividad de graduación (Business Development Project I y II).
+La escala es de 1,0 a 7,0, con una nota mínima de aprobación de 4,0.
+La nota final del programa será de la siguiente forma:
+-	50% al promedio simple de las asignaturas del programa sin considerar Business Development Project I y II.
+-	20% Business Development Project I.
+-	30% Business Development Project II.
+Además, con cumplir todos estos requisitos, el o la estudiante debe cumplir con los requisitos administrativos que establece la Universidad Diego Portales.
+
+## 3.10.	Tabla de Cursos
+Liste las asignaturas, módulos, seminarios y/o unidades de investigación que forman parte del Programa. Incorpore las evaluaciones que no están incluidos en algún curso o actividad curricular (por ejemplo, examen de grado).
+
+Semestre/
+Trimestre/
+Bimestre	Nombre del curso o actividad	Requisitos	Carácter
+(obligatorio/
+electivo)	Duración	Horas
+Presenciales
+Totales	Créditos	Escala de evaluación (*)
+1	Negocios digitales	-	Obligatorio	3 semanas	9 hrs.	2	1 a 7, min 4
+1	Planificación estratégica	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+1	Internet de las cosas	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+2	Taller M.Agiles	-	Obligatorio	1 día	8 hrs.	2	Aprobado/Reprobado*
+2	FinTech, Blockchain y moneda digital	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+2	Transformación Cultural	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+2	Estrategia Tecnológica	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+3	Articulación certificación internacional: Transformación Digital
+-	Obligatorio	-	-	-	Aprobado/Reprobado*
+
+(*) Sin conversión a nota numérica
+
+Semestre/
+Trimestre/
+Bimestre	Nombre del curso o actividad	Requisitos	Carácter
+(obligatorio/
+electivo)	Duración	Horas
+Presenciales
+Totales	Créditos	Escala de evaluación (*)
+3	Redes 5G	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+3	Marketing Digital	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+3	Introducción a Inteligencia Artificial, herramientas Cloud	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+4	Estrategias de captación y crecimiento online	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+4	Machine Learning	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+4	Ética, privacidad y seguridad de los datos	-	Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+5	Evaluación económica		Obligatorio	3 semanas	24 hrs.	3	1 a 7, min 4
+5	Business Development Project I	-	Obligatorio	4 semanas	32	10	1 a 7, min 4
+6	Business Development Project II	-	Obligatorio	Trimestre	32	10	1 a 7, min 4
+Total: 	395 hrs.	60
+(*) Sin conversión a nota numérica
+
+## 4.	DESCRIPCIÓN DE LOS CURSOS/MÓDULOS
+
+Negocios Digitales
+Horas presenciales totales: 12 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+
+Los modelos de negocio digitales están perturbando a empresas con 50 años de antigüedad en las telecomunicaciones, el transporte, la publicidad, el comercio electrónico, la automoción, los seguros y muchos otros sectores. Este curso explorará los modelos de negocio de los disruptores de software como Apple, Google, Facebook y Amazon. La clase utiliza un marco estructurado para analizar los modelos de negocio con numerosos ejemplos para que los estudiantes puedan aplicarlo a su propio negocio o caso de estudio.
+Objetivos de aprendizaje:
+-	Conocer los antecedentes y el poder de los modelos de negocio digitales utilizando como ejemplo una serie de empresas y marcas muy conocidas
+-	Conocer las deficiencias de las herramientas tradicionales de gestión estratégica.
+-	Desglosar los modelos de negocio en sus cuatro componentes básicos.
+Contenidos:
+-	Cómo lo digital desafía la estrategia de gestión tradicional.
+-	Ecosistemas de Marketplaces y Apps
+-	Modelos de negocio asimétricos
+-	Desarrolladores en como parte del equipo de toma de decisiones
+-	Lenguajes de programación y la elección de la tecnología
+-	Innovaciones, brokers y resellers
+o	Extendedores de productos
+o	Resellers y Distribuidores
+-	Estudio de caso
+-	Canvas para Negocios Digitales
+Estrategia metodológica:
+El curso se desarrollará en 2 semanas, cada actividad se desarrollará de manera presencial y grupal, en conjunto con exposiciones del trabajo realizado.
+Se realizarán cápsulas auto contenidas con las temáticas planteadas en el programa para analizar durante la semana con actividades de autoevaluación asociadas a grupos temáticos.
+Se realizarán actividades presenciales orientadas, consistentes en la investigación y descripción de tecnologías en función de sus características, comparación entre modelos de negocio y análisis de casos de distintas áreas.
+
+Estrategia evaluativa:
+Se realizarán evaluaciones presencial de cada módulo agrupando semanal, defendidas grupalmente por los estudiantes a partir de los conceptos desarrollados durante la semana.
+
+Bibliografía obligatoria y complementaria:
+Generación de Modelos de Negocio, Alexander Osterwalder, 2013
+
+PLANIFICACIÓN ESTRATÉGICA PARA LA TRANSFORMACIÓN DIGITAL
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+
+La transformación digital no se trata solo de tecnología. Si bien un proceso de cambio disruptivo o incremental comienza con la adopción y el uso de tecnologías digitales, el éxito del negocio se logra cuando se avanza hacia una transformación organización holística. En otras palabras, las capacidades disruptivas que poseen las tecnologías deben sumarse a otros factores, como la cultura,  la gestión del talento, la gestión de procesos o el liderazgo, lo que solo se puede coordinar e implementar si la organización cuenta con una estrategia digital clara y bien comunicada.
+
+El objetivo de este curso es identificar los principales indicadores de digitalización organizacional con el fin de analizar y desarrollar una planificación estratégica que permita orientar un proceso de cambio. ¿Qué efectos tiene una economía digital en las organizaciones? ¿Cómo adaptar el negocio a un ecosistema digital? ¿Cómo implementar cambios tecnológicos considerando la fuerte resistencia cultural que sin duda se presentará?
+
+El curso permitirá que los y las estudiantes aprendan a identificar los desafíos de la digitalización organizacional y puedan enfrentarlos con una planificación estratégica apropiada, entendiendo que una estrategia digital debe estar alineada con la estrategia corporativa al nivel funcional y operacional, mientras que la estrategia corporativa debe representar la visión, la gobernanza, la planificación y los procesos de gestión para soportar la implementación de la estrategia digital.
+Objetivos de aprendizaje:
+-	Identificar las cambios en el entorno a los que debemos adaptarnos estratégicamente.
+-	Reconocer los elementos que componen un ecosistema digital.
+-	Conocer las etapas de los procesos de madurez digital, con el fin de planificar un cambio sostenido y de largo plazo.
+-	Diseñar una estrategia para iniciar o avanzar en un proceso de transformación digital.
+-	Diseñar un procesos de comunicación estratégica para liderar y fomentar la legitimidad del proceso de cambio.
+-	Generar indicadores de madurez digital para mantener mediciones constantes del proceso.
+Contenidos:
+-	Organización y entorno: Desafíos permanentes de adaptación.
+-	Qué es un ecosistema digital y cómo enfrentarlo en beneficio del negocio.
+-	Elementos que componen una estrategia digital.
+-	Indicadores de digitalización organizacional: Cómo medir y fomentar la madurez digital.
+-	Principales desafíos de los procesos de transformación tecnológica.
+-	Comunicación estratégica y legitimidad del proceso de cambio: desafíos del liderazgo.
+Estrategia metodológica:
+-	El curso utiliza la metodología de análisis y discusión de casos. Además, combina la utilización de clases lectivas con la elaboración de un proyecto de transformación digital a nivel de planificación estratégica.
+Estrategia evaluativa:
+-	Proyecto de transformación digital (30%)
+-	Participación en clases (20%)
+-	Memos de casos (20%)
+-	Ejercicios en clases (30%)
+Bibliografía obligatoria y complementaria:
+Benhnam, T., Ed, L., Kirk, G., & Vernon, I. (2019). Digital Transformation Is Not About Technology. Harvard Business Review, 1–6. https://hbr.org/2019/03/digital-transformation-is-not-about-technology
+Bloomberg, J. (2018). Digitization, Digitalization, And Digital Transformation: Confuse Them At Your Peril. Forbes, 1–6. https://www.forbes.com/sites/jasonbloomberg/2018/04/29/digitization-digitalization-and-digital-transformation-confuse-them-at-your-peril/#78e677fd2f2c
+Catlin, T., LaBerge, L., & Varney, S. (2018). Digital strategy: The four fights you have to win. McKinsey Quarterly, 2018(4), 78–89.
+CCS, CORFO, Comité de Transformación Digital, & PMG. (2020). índice de Transformación Digital de Empresas. Indice de Transformación Digital de Empresas, 29.
+Correani, A., De Massis, A., Frattini, F., Petruzzelli, A. M., & Natalicchio, A. (2020). Implementing a Digital Strategy : Learning from the Fo r R ev iew On Fo r R ly On. Review, California Management Berkeley, U C, 62(4), 37–56.
+Duerr, S., Holotiuk, F., Beimborn, D., Wagner, H. T., & Weitzel, T. (2018). What is digital organizational culture? Insights from exploratory case studies. Proceedings of the Annual Hawaii International Conference on System Sciences, 2018-Janua, 5126–5135. https://doi.org/10.24251/hicss.2018.640
+Galliers, B., & Jarvenpaa, S. (2010). Understanding digital transformation. Journal of Strategic Information Systems, 19(3), 143–144. https://doi.org/10.1016/j.jsis.2010.09.001
+González-Varona, J. M., López-Paredes, A., Pajares, J., Acebes, F., & Villafáñez, F. (2020). Aplicabilidad de los Modelos de Madurez de Business Intelligence a PYMES. Direccion y Organizacion, 71(71), 31–45. https://doi.org/10.37610/dyo.v0i71.577
+Hägg, J., & Sandhu, S. (2017). Do or Die : How large organizations can reach a higher level of digital maturity. Industrial Management & Data Systems, 116(8), 1–51. http://www.diva-portal.org/smash/get/diva2:1111113/FULLTEXT02%0Ahttp://www.emeraldinsight.com/doi/10.1108/IMDS-12-2015-0495
+Kane, B. G. C., Palmer, D., Phillips, A. N., Kiron, D., & Buckley, N. (2017). Achieving Digital Maturity - Adapting Your Company to a Changing World. MIT Sloan Management Review, Summer, 1–31.
+Kane, G. C. (2015). Strategy, not Technology, Drives Digital Transformation. MIT Sloan Management Review and Deloitte University Press, 1–25. https://doi.org/10.1176/appi.ajp.159.9.1620
+Kanter, R. M. (2001). Evolve! Succeeding in the digital culture of tomorrow. Harvard Business School Press.
+Kotarba, M. (2017). Measuring Digitalization-Key Metrics. Foundations of Management, 9(1), 123–138. https://doi.org/10.1515/fman-2017-0010
+Rauser, A. (2016). Digital strategy: A guide to digital business transformation. CreateSpace Independent Publishing Platform.
+Schallmo, D., Williams, C. A., & Lohse, J. (2019). Digital strategy - Integrated approach and generic options. International Journal of Innovation Management, 23(8). https://doi.org/10.1142/S136391961940005X
+Schwab, K. (2016). The Fourth Industrial Revolution. World Economic Forum.
+
+Internet de las Cosas
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+Este curso introduce a los y las estudiantes en el contexto de los dispositivos conectados, su contexto, estructura y aplicaciones. El aprendizaje se construye desde los ejemplos de sistemas reales, las tecnologías utilizadas, las capacidades y limitaciones, para terminar en los modelos de negocio que se utilizan actualmente en su funcionamiento. Se da un particular énfasis a la interoperabilidad, escalabilidad, robustez, seguridad y capacidad de evolución de los sistemas de Internet de las Cosas.
+Objetivos de aprendizaje:
+-	Comprender las arquitecturas y tecnologías actuales aplicadas a la Internet de las Cosas
+-	Entender las capacidades y limitaciones de los sistemas basados en Internet de las Cosas
+-	Comprender el rol protagónico de la necesidad de interoperabilidad, escalabilidad, robustez, seguridad y evolución en la Internet de las Cosas
+-	Contextualizar las aplicaciones y modelos de negocio para la Internet de las Cosas
+Contenidos:
+-	Definiciones, conceptos, áreas de aplicación, arquitecturas
+-	Tecnologías aplicadas en la construcción de soluciones de Internet de las Cosas (Sensado, Procesamiento, Comunicación, Almacenamiento, Visualización)
+-	Interoperabilidad: Estándares, Entidades de Estandarización, Integración de componentes. Escalabilidad, uso de recursos, sistemas centralizados y distribuidos.
+-	Robustez: Redundancia física y lógica, criterios de diseño.
+-	Seguridad: Certificados, Seguridad física y lógica, Acceso a los dispositivos, tipos de ataques, control de daños.
+-	Modelos de Negocio: Segmentación de usuarios por servicios, costos fijos y variables, economía circular, modelos de desarrollo de soluciones.
+Estrategia metodológica:
+El curso se desarrollará en 3 semanas, cada actividad presencial comienza un viernes con la introducción al tema analizando el material y al día siguiente (sábado) se desarrolla la actividad de manera grupal y se realizan las presentaciones.
+Se realizarán cápsulas auto contenidas con las temáticas planteadas en el programa para analizar durante la semana con actividades de autoevaluación asociadas a grupos temáticos.
+Se realizarán actividades presenciales orientadas, consistentes en la investigación y descripción de tecnologías en función de sus características, comparación entre arquitecturas y análisis de casos de distintas áreas.
+Estrategia evaluativa:
+Se realizarán evaluaciones en línea de por cada módulo agrupando cápsulas temáticas y presentaciones presenciales semanales defendidas grupalmente por los estudiantes a partir de los conceptos desarrollados durante la semana.
+Bibliografía obligatoria y complementaria:
+Cápsulas provistas en el curso, slides y documentos de análisis provistos en el curso.
+- “Introduction to the IoT” – European Community – IoT-Open.eu - http://iot-open.eu/download/io1-introduction-to-the-iot/
+- Alam, Mansaf & Shakil, Kashish & Khan, Samiya. (2020). Internet of Things (IoT) Concepts and Applications. https://www.researchgate.net/publication/342381257_Internet_of_Things_IoT_Concepts_and_Applications
+- Fleisch, Elgar & Weinberger, Markus & Wortmann, Felix. (2014). Business Models and the Internet of Things. 10.13140/RG.2.1.3824.2008. https://www.researchgate.net/publication/282572948_Business_Models_and_the_Internet_of_Things
+
+Fintech, BlockChain y Moneda Digital
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+La actual revolución tecnológica está transformando los sistemas financieros en Chile y el Mundo. Esta revolución no sólo está digitalizando los procesos, sino que está creando nuevos productos y mercados impensados hace una década. Estos desarrollos nos obligan a replantear preguntas fundamentales que creíamos resueltas - como si tendremos bancos en 2030.  El programa del curso se centra en las principales transformaciones que están ocurriendo en el sistema financiero
+
+Objetivos de aprendizaje:
+-	Comprender los fundamentos de los sistemas monetarios y financieros.
+-	Comprender los sistemas de incentivos en los que se basa Blockchain
+-	Modelar negocios entorno a la industria Fintech.
+-	Conocer implicancias regulatorias respecto al uso de divisas basadas en criptomonedas.
+Contenidos:
+-	Transformaciones que están ocurriendo en el sistema financiero
+-	BlockChain
+-	Moneda Digital
+-	Cambios en las áreas de medios de pago
+-	Préstamos, seguros, manejo y provisión de liquidez
+-	Ahorro e inversiones
+-	Criptoactivos e implicancias legales.
+-	Regulación financiera y de libre competencia
+Estrategia metodológica:
+El curso combina distintas modalidades de enseñanza: clases expositivas, discusiones en clases, lecturas, casos, videos y mini charlas de invitados de la industria Fintech. Los alumnos también realizan investigaciones y presentaciones grupales sobre temas Fintech.
+
+Estrategia evaluativa:
+Se evaluarán las investigaciones, presentaciones y pruebas conceptuales sobre el conjunto de  módulos impartidos semanalmente
+Bibliografía obligatoria y complementaria:
+Handbook of Digital Currency, Bitcoin and Blockchain: Jargon Demystified, Prakash Prasad, 2020.
+
+Transformación Cultural
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+
+Los cambios de la sociedad actual han desafiado tanto las empresas como a sus clientes a trabajar a través de la inmediatez junto a diferentes exigencias tecnológicas que requieren el desarrollo de nuevas habilidades y competencias integrales de cambio y transformación cultural.
+
+La transformación del modelo de negocio ha sido siempre una necesidad de la empresa que quiere sobrevivir y ahora deben hacerlo en ambientes volátiles, inciertos, complejos y ambiguos. Es por esto que se requiere generar nuevas estrategias de transformación que ayuden a las organizaciones a transitar por este proceso de cambio, donde no sólo se “digitalicen” sino que avancen hacia una cultura ágil desde una mirada equilibrada e integral.
+
+En la actualidad, bajo esta nueva realidad las organizaciones buscan acelerar la toma de decisiones, asegurar la calidad y mejorar sus sistemas colaborativos, que gracias a una mejor visibilidad todos estos elementos son alcanzables debido a la revolución digital.  Sin embargo, antes de que las empresas puedan llegar a ese punto, deben aceptar el cambio, abandonar procesos obsoletos y experimentar una nueva transformación, la que ahora es digital.
+
+Este curso aborda principalmente el desafío de cambio que viven las organizaciones en la actualidad, donde a pesar de estar inmersas en ambientes altamente digitalizados la mayoría de ellas mantiene un esquema tradicional de liderazgo y cambio. Por lo que se requieren nuevas estrategias para transitar de forma efectiva.
+
+Objetivos de aprendizaje:
+El curso que se describe está enfocado principalmente en generar nuevas estrategias de cambio que permitan un nuevo orden en la forma de ser y hacer como sistema, desde una transformación orientada a que la tecnología sea un elemento que facilite la vida laboral de las personas, y donde éstas siguen siendo el pilar de toda la estrategia.
+
+Para lo anterior se debe reconocer las características y elementos que participan en la Transformación Digital en la empresa, generando conocimientos y herramientas que se requieren para un proceso de Transformación Digital exitosa.
+Así mismo se enseñarán estrategias de cambio y liderazgo fundamentales para ayudar a los equipos de cambio a avanzar desde una época híbrida hacia una cultura ágil.
+
+Módulo 1: Cambio y cultura digital
+
+-	El cambio como un proceso de  aprendizaje organizacional.
+-	La necesidad de cambio
+-	Funcionar en una cultura ambigua, cambiante y con incertidumbre
+-	Trabajar en una nueva mentalidad de empresa
+-	Gestión del cambio en la  transformación digital
+-	Fuerzas que crean la necesidad  de cambio
+-	Cómo apalancar un cambio
+-	Estrategias para llevar a cabo  un cambio exitoso.
+
+Módulo 2: Focalizar el cambio
+
+-	Definir los focos de cambio
+-	Identificar resistencias y fortalezas del equipo para el  cambio.
+-	Mecanismo para superar la  Resistencia.
+-	Levantar los primeros  escalones del cambio
+
+Módulo 3: Liderazgo y gestión del talento
+-	Desafíos de la gestión de talentos
+-	Herramientas de la gestión del talento
+-	Atreverse a descubrir nuevas habilidades y desafiarlas
+-	Consideración de características y sello personal en otros
+-	Percepción del talento dentro de la organización
+
+Módulo 4: diseño de la organización 4.0
+-	Beneficios y riesgos industria 4.0
+-	Puestos de trabajos emergentes
+-	Mindset  y mapas mentales de una cultura 4.0
+-	Trabajo con las generaciones bajo este nuevo paradigma
+
+Estrategia metodológica:
+
+El curso que se presenta a continuación está basado en una metodología que combina por una parte, la entrega de técnicas y herramientas prácticas en sesiones junto con el desarrollo de ejercicios de aplicación grupal e individual, que serán implementadas entre sesiones, con el propósito de poner en acción algunas herramientas y así ver el efecto de estas en su contexto sistémico.
+
+Así mismo se considera el desarrollo de un proyecto donde mediante la formación de grupos, se llevarán a cabo una posible intervención en temas de transformación digital a partir de un cambio cultural. Esto será evaluado a partir de aspectos teóricos y prácticos vistos durantes cada módulo.
+
+Dentro de la metodología de aprendizaje se encuentran:
+
+-	Desarrollo e integración de aspectos conceptuales.
+-	Trabajos prácticos y ejercicios
+-	Análisis de casos
+-	Lectura y discusión de textos
+Estrategia evaluativa:
+
+Se considera el desarrollo de un proyecto donde mediante la formación de grupos, se llevarán a cabo una posible intervención en temas de transformación digital a partir de un cambio cultural. Esto será evaluado a partir de aspectos teóricos y prácticos vistos durantes cada módulo.
+Bibliografía obligatoria y complementaria:
+
+Se consideran lecturas y libros durante todo el módulo.
+
+## 5.	EQUIPO DIRECTIVO Y/O DE GESTIÓN
+
+Refiérase a la organización interna del programa, indicando quiénes conformarán el comité académico; los cargos de gestión y/o coordinación académica que requiere el programa además del director; y los espacios de participación y/u organización del cuerpo académico y de los estudiantes.
+
+El programa contará con dos directores, designados por los decanos de cada Facultad, y con un coordinador académico designado por la Dirección de Postgrado de la FEE.
+
+ESTRATEGIA TECNOLÓGICA
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+
+El objetivo de este curso es analizar y desarrollar estrategias empresariales en industrias cuya base de la competencia es la tecnología. ¿Cómo evolucionan las industrias tecnológicas? ¿Qué diferencia a una industria tecnológica de una en la que la competencia no tiene como base la tecnología? ¿Cómo pueden las startups perturbar industrias maduras? ¿Por qué?
+
+El curso permitirá que los y las estudiantes aprendan a analizar la competencia en industrias tecnológicas. El foco estará en entender cómo las empresas pueden crear y capturar valor en este tipo de industrias.
+Objetivos de aprendizaje:
+-	Identificar los factores que determinan el éxito de las empresas en industrias tecnológicas.
+-	Analizar la creación y captura de valor en industrias tecnológicas.
+-	Diseñar una estrategia para competir en una industria tecnológica.
+-	Comunicar efectivamente un análisis estratégico en el contexto de una industria tecnológica.
+Contenidos:
+-	Modelos de evolución de la industria, la tecnología y el mercado, y las sus implicaciones para la estrategia.
+-	Creación de valor en empresas establecidas en el contexto de industrias tecnológicas.
+-	Creación de valor en startups en el contexto de industrias tecnológicas.
+-	Creación de valor en ecosistema basado en plataformas y transición desde una estrategia centrada en el producto a otra centrada en la plataforma.
+-	Modelos de negocios para innovar y apropiarse del valor de la propiedad intelectual.
+Estrategia metodológica:
+-	El curso utiliza la metodología de análisis y discusión de casos. Además, combina la utilización de clases lectivas y simulaciones.
+Estrategia evaluativa:
+-	Proyecto de Consultoría (30%)
+-	Participación en clases (30%)
+-	Memos de casos (20%)
+-	Simulaciones (20%)
+Bibliografía obligatoria y complementaria:
+Kodak and the Digital Revolution (HBS 9-705-448)
+McGahan, Anita (2004), "How Industries Change," Harvard Business Review, 82(10): 86-94
+Christensen, C. M., Raynor, M., & McDonald, R. (2015). What is Disruptive Innovation?. Harvard Business Review, 93(12), 44-53
+Netflix in 2011 (9-615-007)
+Gawer, A. (2012), “What Managers Need to Know about Platforms,” European Business Review.
+Teece, D. J. (2006). Reflections on “profiting from innovation”. Research Policy, 35(8), 1131-1146
+
+Taller de métodos agiles
+Horas presenciales totales: 8 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+-	Este curso permitirá a los participantes realizar una inmersión en el mundo ágil, profundizando en el framework ágil más utilizado: scrum
+Objetivos de aprendizaje:
+-	Identificar los aspectos diferenciales de las organizaciones que trabajan con agilidad
+-	Reconocer los elementos diferenciales del Framework Scrum
+Contenidos:
+-	Introducción a Agilidad
+-	Principios ágiles
+-	SCRUM
+o	Roles
+o	Reuniones
+o	Artefactos
+-	Simulación de un proyecto con Scrum
+Estrategia metodológica:
+-	Presentación de contenido vía Streaming
+-	Ejercicios de aplicación
+-	Taller de simulación de un proyecto
+Estrategia evaluativa:
+-	No hay evaluación
+Bibliografía obligatoria y complementaria:
+-	Scrum Guide
+
+Redes 5G
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+
+Esta asignatura aborda el estado actual y proyecciones de las redes de comunicaciones celular, como base para la construcción de una nueva economía digital cimentada en la conectividad.
+
+Objetivos de aprendizaje:
+
+-	Identificar factores técnicos y regulatorios que habilitan la existencia y desarrollo de redes de comunicaciones.
+-	Modelar las brechas de conectividad en función de las características de las arquitecturas celulares y los fenómenos físicos asociados.
+-	Analizar críticamente políticas de desarrollo tecnológico, basados en sistemas celulares.
+-	Proyectar nuevos negocios basados en arquitecturas 5G
+Contenidos:
+-	Evolución a nivel país de las tecnologías celulares (alcance, penetración, condiciones de instalación).
+-	Conceptos básicos de arquitecturas celulares
+-	Arquitectura 5G
+-	Marco regulatorio
+Estrategia metodológica:
+
+El curso se desarrollará en 3 semanas, cada actividad presencial comienza un viernes con la introducción al tema analizando el material y al día siguiente (sábado) se desarrolla la actividad de manera grupal y se realizan las presentaciones.
+Se realizarán cápsulas autocontenidas  o entrega de material con las temáticas planteadas en el programa para analizar durante la semana con actividades de autoevaluación asociadas a grupos temáticos.
+Se realizarán actividades presenciales orientadas, consistentes en la investigación y descripción de tecnologías en función de sus características, comparación entre arquitecturas y análisis de casos de distintas áreas.
+
+Estrategia evaluativa:
+Se realizarán evaluaciones en línea de por cada módulo agrupando cápsulas temáticas y presentaciones presenciales semanales defendidas grupalmente por los estudiantes a partir de los conceptos desarrollados durante la semana.
+Bibliografía obligatoria y complementaria:
+
+Reportes subtel
+Casos acorde al contenido
+T. Rappaport, Wireless communications, principles and practice.
+Artículos y tutoriales IEEE
+
+Marketing Digital
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+
+La tecnología digital y móvil, junto con la adopción explosiva de los medios sociales a nivel mundial, ha alterado fundamentalmente las expectativas de los consumidores y la forma en que las empresas deben operar para apoyar a sus clientes. Este curso ayuda a comprender cómo las estrategias digitales de vanguardia pueden ayudar a las empresas a crecer y prosperar en este entorno dinámico.
+Objetivos de aprendizaje:
+-	Comprender y evaluar los modelos de negocio digital.
+-	Identificar qué hace que los clientes hagan click y se queden.
+-	Comprensión de la base y herramientas del marketing y estrategia digital.
+-	Aprovechar el “big data” como un activo estratégico y de personalización
+-	Abrazar la innovación y la experimentación.
+Contenidos:
+-	Introducción. Proceso de cinco pasos de planificación y ejecución de una estrategia de Marketing Digital.
+-	Desafíos organizacionales del Marketing Digital. Desafíos futuros del Marketing Digital.
+-	Customer Centricity. Customer Journey – Path to Purchase. Estrategia de Marketing Digital: logrando Customer Engagement.
+-	Paid, Owned y Earned Media. Estrategia de acceso: SEO, SEM, SMM, SMO, PPC.
+-	Estrategia de Engagement.
+-	Estrategia de personalización.
+-	Estrategia de conexión.
+-	Estrategia de colaboración.
+-	E-commerce. Amenazas invisibles (Regulaciones).
+-	Haciendo que el Marketing Digital sea relevante e importe.
+Estrategia metodológica:
+El curso se desarrollará en 3 semanas, cada actividad se desarrollará de manera presencial y grupal, en conjunto con exposiciones del trabajo realizado.
+- Se realizarán cápsulas auto contenidas con las temáticas planteadas en el programa para analizar durante la semana con actividades de autoevaluación asociadas a grupos temáticos.
+- Se realizarán actividades presenciales orientadas, consistentes en la investigación y descripción de herramientas de marketing en función de sus características, comparación entre modelos de marketing y análisis de casos de distintas áreas.
+
+Estrategia evaluativa:
+Se realizarán evaluaciones presencial de cada módulo agrupando semanal, defendidas grupalmente por los estudiantes a partir de los conceptos desarrollados durante la semana.
+
+Bibliografía obligatoria y complementaria:
+Marketing Digital. Posicionamiento SEO, SEM y Redes Sociales (Spanish Edition), Miguel A. Arias, CreateSpace Independent Publishing Platform. Isbn13: 9781492326663
+
+Introducción a Inteligencia Artificial, herramientas Cloud
+
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+El curso realiza un recorrido sobre los conceptos y herramientas requeridas para desarrollar un servicio que utilice algún tipo de Inteligencia Artificial y lo entregue mediante infraestructura de tipo Cloud.
+
+El curso presenta los tópicos de Inteligencia Artificial y usos de herramientas Cloud mediante la exploración de casos de uso y aplicaciones. Comprendiendo conceptos como el aprendizaje automático, aprendizaje asistido, aprendizaje profundo, redes neuronales, bases de datos cloud, micro servicios serverless, procesamiento en demanda.
+
+Objetivos de aprendizaje:
+-	Entender qué es la IA, sus aplicaciones y casos de uso y cómo está transformando nuestras vidas.
+-	Conocer términos como aprendizaje automático, aprendizaje profundo y redes neuronales.
+-	Formar opinión sobre varios problemas y preocupaciones éticas en torno a la IA.
+-	Comprender los principales niveles de arquitecturas cloud.
+-	Introducir los conceptos de micro servicios, arquitecturas serverless, bases de datos cloud, y procesamiento en demanda.
+Contenidos:
+-	Clasificación – IA- Machine Learning – Deep Learning
+-	Tipos de aprendizaje
+-	Redes neuronales
+-	Casos de uso de IA
+-	Arquitecturas cloud
+o	Contenedores
+o	Serverless
+-	Micro servicios
+-	Bases de datos Cloud
+Estrategia metodológica:
+El curso se desarrollará en 3 semanas, cada actividad presencial comienza un viernes con la introducción al tema analizando el material y al día siguiente (sábado) se desarrolla la actividad de manera grupal y se realizan las presentaciones.
+- Se realizarán cápsulas autocontenidas con las temáticas planteadas en el programa para analizar durante la semana con actividades de autoevaluación asociadas a grupos temáticos.
+Estrategia evaluativa:
+Se realizarán actividades presenciales orientadas, consistentes en la investigación y descripción de tecnologías en función de sus características, comparación entre arquitecturas y análisis de casos de distintas áreas.
+Estrategia evaluativa:
+Se realizarán evaluaciones en línea de por cada módulo agrupando cápsulas temáticas y presentaciones presenciales semanales defendidas grupalmente por los estudiantes a partir de los conceptos desarrollados durante la semana.
+Bibliografía obligatoria y complementaria:
+-	AI for People and Business: A Framework for Better Human Experiences and Business Success, Alex Castrounis, "O'Reilly Media, Inc.", Jul, 2019.
+-	AI as a Service: Serverless machine learning with AWS, Peter Elger, Eóin Shanaghy, Sep , 2020.
+
+Estrategias de captación y crecimiento online
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+
+El curso apunta a comprender a los consumidores y las principales técnicas de investigación de mercado, segmentar correctamente, y definir el posicionamiento de productos o servicios. Se  analizan las cuatro áreas críticas del marketing, las tan famosas cuatro P de producto, precio, promoción y plaza.
+
+Objetivos de aprendizaje:
+
+Comprender los fundamentos del comportamiento de los consumidores y el proceso de toma de decisiones de los consumidores
+Comprensión acerca de el concepto de posicionamiento de productos
+Conocer lo necesario para comprender y gestionar el papel estratégico de marcas y productos en la generación de los resultados del negocio
+
+Contenidos:
+
+-	Fundamentos del comportamiento del consumidor
+-	El proceso de decisión del consumidor
+-	Fundamentos de la investigación de marketing
+-	Introducción sobre el posicionamiento
+-	Segmentación
+-	Diferenciación y Propuesta de Valor
+-	Posicionamiento
+-	Producto y política de producto
+-	Precio y política de fijación de precios
+-	Gestión de canales y retailing
+-	Comunicaciones de marketing
+Estrategia metodológica:
+El curso se desarrollará en 3 semanas, cada actividad se desarrollará de manera presencial y grupal, en conjunto con exposiciones del trabajo realizado.
+- Se realizarán cápsulas auto contenidas con las temáticas planteadas en el programa para analizar durante la semana con actividades de autoevaluación asociadas a grupos temáticos.
+- Se realizarán actividades presenciales orientadas, consistentes en la investigación y descripción de herramientas de marketing en función de sus características, comparación entre modelos de marketing y análisis de casos de distintas áreas.
+
+Estrategia evaluativa:
+Se realizarán evaluaciones presencial de cada módulo agrupando semanal, defendidas grupalmente por los estudiantes a partir de los conceptos desarrollados durante la semana.
+
+Bibliografía obligatoria y complementaria:
+Principles of Marketing, Gary M. Armstrong, Stewart Adam, Sara Marion Denize, Michael Volkov, Philip Kotler, Pearson Australia, 2017 - Customer relations
+
+Machine Learning
+
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+
+El Machine Learning-aprendizaje automático- es una rama de la inteligencia artificial que permite que las máquinas aprendan sin ser expresamente programadas para ello. Una habilidad indispensable para crear sistemas capaces de identificar patrones entre los datos para hacer predicciones.
+En esta asignatura se analizarán distintos tipos de modelos descriptivos y predictivos empleando aprendizaje supervisado y no supervisado. Se discutirán diferentes conceptos asociados al Machine Learning, casos en los negocios y aplicaciones prácticas.
+
+Objetivos de aprendizaje:
+-	Entender qué es el Machine Learning y desarrollar un pensamiento analítico de los datos.
+-	Conocer aspectos generales del Machine Learning y en qué casos puede aplicarse.
+-	Analizar los diferentes problemas existentes en los negocios y las soluciones que presenta la ciencia de datos.
+-	Comprender diferentes métricas de calidad de ajuste y usarlas para describir la calidad de un modelo.
+-	Identificar cual es la mejor técnica que podría aplicarse para una situación en particular.
+Contenidos:
+
+-	Problemas de negocio y soluciones de ciencia de datos
+-	Análisis exploratorio de datos
+-	Introducción al modelamiento predictivo
+o	Diferentes problemas asociados al entrenamiento de modelos
+o	KNN, Naïve Bayes, árboles de decisión, entre otros.
+-	Overfitting y cómo evitarlo
+-	Clusters
+o	Conceptos fundamentales
+o	Diferentes métodos de clusters
+o	Evaluación de clusters
+-	¿Qué es un buen modelo?
+Estrategia metodológica:
+El curso se desarrollará en 3 semanas, cada actividad presencial comienza un viernes con la introducción al tema analizando el material y al día siguiente (sábado) se desarrollan actividades grupales con entrega de informes o presentaciones.
+
+Estrategia evaluativa:
+Se realizarán evaluaciones asociadas a entregas de informes y/o presentaciones a lo largo del curso. La nota de aprobación mínima será un 4.0. La nota final de cada alumno será el promedio de todas las actividades evaluadas en el curso.
+Bibliografía obligatoria y complementaria:
+-	Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking, Provoste & Tom Fawcett, "O'Reilly Media, Inc.", Jul, 2013.
+-	Machine Learning in Business: An Introduction to the World of Data Science, John Hull, Independently published ,May , 2021.
+
+Evaluación Económica
+Horas presenciales totales: 24 hrs.	Créditos: 3
+Breve descripción del curso/módulo:
+
+El curso está estructurado para que el alumno pueda entender y aplicar los enfoques, métodos y las técnicas que permiten apoyar la toma de decisiones de inversión en TIC, mediante un enfoque sistemático, disciplinado, cuantificable para la evaluación económica, así como de riesgos del desarrollo, operación, y mantenimiento de TIC.
+
+Objetivos de aprendizaje:
+
+-	Identificar las actividades o estudios necesarios para evaluar técnica y económicamente un proyecto de acuerdo con sus características, orientado a desarrollo, operación y mantención de TICs.
+-	Aplicar métodos y técnicas apropiadas para la evaluación técnica, económica y de riesgo de un proyecto TIC.
+-	Aplicar métodos formales (cuantitativos, cualitativos) para el apoyo a la toma de decisiones de inversión en TICs.
+-	Tomar decisiones de inversión en TICs, mediante la aplicación de herramientas de evaluación de proyectos.
+
+Contenidos:
+
+-	Evaluación técnica de proyectos TIC: Contexto de la evaluación de proyecto, desarrollo del plan integrado de proyecto, especificación de ámbito y alcances, actividades y tiempo, costos de proyectos, recursos humanos, comunicaciones, aspectos de calidad, riesgos, adquisiciones.
+-	Evaluación económica de proyectos: Concepto de evaluación de proyectos (privada y social), métodos de valor futuro y presente, tasa interna de retorno, costo de capital, fuentes, incertidumbre en modelos de decisión de inversión, problemas de impuestos e inflación.
+-	Condiciones particulares de los proyectos tecnológicos. Ajustes a proyectos.
+Estrategia metodológica:
+El curso combina distintas modalidades de enseñanza: clases expositivas, discusiones en clases, lecturas, casos. Las clases se imparten en modalidad teórico-práctica. Se espera que el alumno adquiera los conocimientos técnicos y metodológicos necesarios mediante su aplicación y entrenamiento en problemas realistas
+
+Estrategia evaluativa:
+La evaluación considera la realización de talleres y controles de los aspectos teóricos. Los estudiantes deberán presentar una evaluación económica básica respecto a un caso de negocio digital.
+Bibliografía obligatoria y complementaria:
+Sapag Chaín, Nassir. Proyectos de Inversión, Formulación y Evaluación, Pearson Educación 2010. (también en Biblioteca Electrónica)
+Sapag, Reinaldo, Sapag Nassir., Preparación y Evaluación de Proyectos, MacGraw Hill Latinoamericana, 6a edición, 2014.
+Schwalbe, Kathy, Information Technology Project Management, Course TechnologyThomson Learning, 2002.
+
+Business Development Project I
+Horas presenciales totales: 32 hrs.	Créditos: 10
+Breve descripción del curso/módulo: Identificar, formular y caracterizar el tema del proyecto, y elaborar una propuesta fundada para su desarrollo (incluyendo, entre otros, alcance, metodología, antecedentes y plan de trabajo).
+Objetivos de aprendizaje:
+
+-	Diseñar y profundizar en un modelo de negocios digital relevante, de interés para el alumno y con eventuales proyecciones profesionales.
+-	Integrar y aplicar conocimientos y habilidades adquiridas en el Magíster.
+-	Fortalecer habilidades profesionales, incluyendo la comunicación oral y escrita, el trabajo autónomo, y la capacidad de elaborar y sostener fundadamente propuestas propias.
+Contenidos:
+-	Tipos de proyectos admisibles, ejemplos.
+-	Formulación de objetivo general y específicos, formulación de metodología.
+-	Modelos de negocios y estructura de un plan de negocios.
+-	Caracterización de la industria.
+-	Estructura del trabajo y plan de trabajo para cumplirlo.
+Estrategia metodológica:
+
+Clases plenarias y tutorías individuales para mostrar avance y dar feedback.
+Estrategia evaluativa:
+
+2 evaluaciones, una intermedia y una final.
+
+Evaluación intermedia (30%, cuarta semana): Presentación de avance y entrega de informe.
+
+Evaluación final (70%, octava semana): Presentación y entrega de informe.
+Bibliografía obligatoria y complementaria:
+
+Business Model Shifts: Six Ways to Create New Value For Customers, Patrick van der Pijl
+
+Fintech Business Models: Applied Canvas Method and Analysis of Venture Capital Rounds, Fischer
+The Business Model: How to Develop New Products, Create Market Value and Make the Competition Irrelevant, Alexander Chernev
+
+Business Development Project II
+Horas presenciales totales: 32 hrs.	Créditos: 10
+Breve descripción del curso/módulo: Desarrollar el plan de negocios para el modelo de negocios identificado en el curso Business Development Project I. En este trabajo los alumnos deberán demostrar asimilación de los conocimientos adquiridos durante el Magíster, además de la habilidad para integrarlos y relacionarlos con la práctica gerencial. Una dimensión adicional, inherente al estudio de caso, es la formalidad exigida, tanto en la organización del caso como en su presentación (oral y escrita).
+Objetivos de aprendizaje:
+-	Desarrollar un plan de negocios para el modelo de negocios con componente digital propuesto en el curso precedente.
+-	Integrar y aplicar conocimientos y habilidades adquiridas en el Magíster.
+-	Fortalecer habilidades profesionales, incluyendo la comunicación oral y escrita, el trabajo autónomo, y la capacidad de elaborar y sostener fundadamente propuestas propias.
+Contenidos:
+
+Planes funcionales de marketing, comercial, operaciones, recursos humanos y financiero.
+Estrategia metodológica:
+
+Clases plenarias y tutorías individuales para mostrar avance y dar feedback.
+Estrategia evaluativa:
+
+3 evaluaciones, dos intermedias y una final.
+
+Evaluación intermedia I (15%, cuarta semana): Presentación de avance y entrega de informe.
+
+Evaluación intermedia II (15%, octava semana): Presentación de avance y entrega de informe.
+
+Evaluación final (70%, duodécima semana): Presentación y entrega de informe final.
+Bibliografía obligatoria y complementaria:
+
+Get Fit for Digital Business: A Six-Step Workout Plan to Get Your Organisation in Great Shape to Thrive in a Connected Commercial World. 1st Edition, Rob Laurens
+
+Successful Business Plan: Secrets & Strategies Paperback – May 1, 2019, Rhonda Abrams
